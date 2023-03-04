@@ -1,0 +1,16 @@
+.review-product{
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    margin:  20px;
+    padding: 20px;
+    border:  2px solid gray;
+    border-radius: 15px;
+}
+
+.review-product img{
+    height: 150px;
+    width: 200px;
+    object-fit:  contain;
+    margin-right: 20px;
+}
